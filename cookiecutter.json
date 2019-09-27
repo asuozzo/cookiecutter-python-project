@@ -1,6 +1,6 @@
 {
-  "full_name": "Firstname Lastname",
-  "email": "",
+  "full_name": "Andrea Suozzo",
+  "email": "andrea@sevendaysvt.com",
   "project_name": "New Project",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
   "project_short_description": "TK: short project description"
